@@ -2,7 +2,7 @@
 
 
 class Config:
-    SECRET_KEY = 'd339f4678fbbf9d42c40f8022be0d34a'
+    SECRET_KEY = ''
     SQLALCHEMY_DATABASE_URI = 'sqlite:///site.db'
     MAIL_SERVER = 'stmp.googlemail.com'
     MAIL_PORT = 587
